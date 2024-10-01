@@ -1,5 +1,4 @@
 # Windows-Stealer
-![Video](https://old.bitchute.com/video/MGPjkWRV7DLM/)
 
 Windows stealer steals all the files of the victim and sends it to the telegram group.
 
