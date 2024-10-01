@@ -1,9 +1,6 @@
-<video width="400" controls>
-  <source src="https://old.bitchute.com/video/MGPjkWRV7DLM/" type="video/mp4">
-</video>
-
-
 # Windows-Stealer
+![Video](https://old.bitchute.com/video/MGPjkWRV7DLM/)
+
 Windows stealer steals all the files of the victim and sends it to the telegram group.
 
 Fatures:
